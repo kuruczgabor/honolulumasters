@@ -2412,7 +2412,7 @@ body.dark .header.header-fixed .logo a img.logo-dark {
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
-    background-size: auto 110%;
+    background-size: auto 100%;
 }
 .fact-badges {
     margin-top: 65px;
